@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShareCompatExample</string>
+    <string name="edittext_hint">Type the content to share</string>
+    <string name="share_options">Share options:</string>
+</resources>

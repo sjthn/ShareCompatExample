@@ -1,0 +1,1 @@
+include ':app', ':intent-receiver-demo'
